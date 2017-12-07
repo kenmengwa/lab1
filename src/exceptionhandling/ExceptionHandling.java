@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ken
+ * @author kennedy
  */
 public class ExceptionHandling {
     
